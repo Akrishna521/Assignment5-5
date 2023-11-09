@@ -1,0 +1,7 @@
+C:\DOT NET\Day 4\ConAppAssignment-If-Else\ConAppAssignment-If-Else\bin\Debug\ConAppAssignment-If-Else.exe.config
+C:\DOT NET\Day 4\ConAppAssignment-If-Else\ConAppAssignment-If-Else\bin\Debug\ConAppAssignment-If-Else.exe
+C:\DOT NET\Day 4\ConAppAssignment-If-Else\ConAppAssignment-If-Else\bin\Debug\ConAppAssignment-If-Else.pdb
+C:\DOT NET\Day 4\ConAppAssignment-If-Else\ConAppAssignment-If-Else\obj\Debug\ConAppAssignment-If-Else.csproj.AssemblyReference.cache
+C:\DOT NET\Day 4\ConAppAssignment-If-Else\ConAppAssignment-If-Else\obj\Debug\ConAppAssignment-If-Else.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 4\ConAppAssignment-If-Else\ConAppAssignment-If-Else\obj\Debug\ConAppAssignment-If-Else.exe
+C:\DOT NET\Day 4\ConAppAssignment-If-Else\ConAppAssignment-If-Else\obj\Debug\ConAppAssignment-If-Else.pdb
